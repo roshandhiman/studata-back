@@ -1,0 +1,13 @@
+{
+    "students":[
+        {
+            "id":1,"name":"Roshan","age":18,"course":"cse"
+        },{
+            "id":2,"name":"Mathely","age":19,"course":"cse"
+        },{
+            "id":3,"name":"Aryabhata","age":100,"course":"sst"
+        },{
+            "id":4,"name":"Berry","age":2,"course":"AI"
+        }
+    ]
+}
