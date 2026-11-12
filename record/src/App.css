@@ -34,4 +34,8 @@ input{
   font-size: 20px;
   font-weight: 400px;
   cursor: pointer;
+}details{
+  margin: 30px;
+  width: 300px;
+  color:white
 }
